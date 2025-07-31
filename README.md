@@ -6,6 +6,13 @@
 </p>
 
 ---
+## Education
+
+-  **BSc in Information and Communication Engineering (ICE)**  
+   Pabna University of Science & Technology (PUST)  
+
+
+---
 
 ##  Current Focus
 
