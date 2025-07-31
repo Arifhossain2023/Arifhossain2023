@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠 Technologies & Tools
+##  Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
@@ -38,7 +38,7 @@
 
 ##  Featured Projects
 
-### 🍽 [PUST Cafe Management System](https://github.com/Arifhossain2023/PUST-Cafe)
+###  [PUST Cafe Management System](https://github.com/Arifhossain2023/PUST-Cafe)
 A fullstack cafeteria platform with POS, kitchen, billing, admin panel.  
 **Stack:** React, Node, MongoDB, Tailwind
 
@@ -64,7 +64,7 @@ Faculty profiles, class schedules, notices, student info in a complete React-bas
 
 ---
 
-## 👁 Visitor Badge
+##  Visitor Badge
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arifhossain2023&label=Profile%20Views&color=0e75b6&style=flat" />
