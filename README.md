@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Arif Hossain</h1>
+<h1 align="center"> Hi, I'm Arif Hossain</h1>
 
 <p align="center">
   A passionate Fullstack Web Developer & Student from Bangladesh 🇧🇩<br/>
