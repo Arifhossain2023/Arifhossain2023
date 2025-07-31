@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Arif Hossain
+A passionate fullstack web developer & student from Bangladesh  
+Currently working on PUST Cafeteria Management System  
+Skilled in React, Node.js, MongoDB, Tailwind, Express
 
-<!--
-**Arifhossain2023/Arifhossain2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies & Tools
 
-Here are some ideas to get you started:
+-  JavaScript, React, Node.js, Express
+-  MongoDB, Mongoose
+-  HTML, CSS, Tailwind
+-  Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+- [PUST Cafe Management System](https://github.com/Arifhossain2023/PUST-Cafe)
+
+---
+
+### Contact
+
+-  Email: arif.190612@s.pust.ac.bd
+
+Thanks for visiting my profile! 😊
