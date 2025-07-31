@@ -74,9 +74,9 @@ Faculty profiles, class schedules, notices, student info in a complete React-bas
 
 ##  Contact
 
-- 📧 Email: [arif.190612@s.pust.ac.bd](mailto:arif.190612@s.pust.ac.bd)
-- 🐙 GitHub: [@Arifhossain2023](https://github.com/Arifhossain2023)
+-  Email: [arif.190612@s.pust.ac.bd](mailto:arif.190612@s.pust.ac.bd)
+-  GitHub: [@Arifhossain2023](https://github.com/Arifhossain2023)
 
 ---
 
-> _Thanks for stopping by!_ 🙏
+> _Thanks for stopping by!_ 
