@@ -1,8 +1,8 @@
 <h1 align="center"> Hi, I'm Arif Hossain</h1>
 
 <p align="center">
-  A passionate Fullstack Web Developer & ICE Graduate from PUST 🇧🇩<br/>
-  Building real-world projects with ❤️ and clean code
+  A passionate Fullstack Web Developer & ICE Graduate from PUST <br/>
+  Building real-world projects with  and clean code
 </p>
 
 ---
